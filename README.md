@@ -44,7 +44,7 @@
 ### ⚡ Interests<br>
 - Building practical AI systems for education, healthcare, and customer service  <br>
 - Exploring new ML frameworks and cloud platforms  <br>
-- Contributing to impactful research and open-source projects</p>
+- Contributing to impactful research and open-source projects</p> <br>
 
 ###
 
